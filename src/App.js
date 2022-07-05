@@ -6,18 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>프로그래시브 웹앱</h1>
+        <p>위의 설치/이동 아이콘을 이용하여 앱화면을 띄울수있다.</p>
       </header>
     </div>
   );
